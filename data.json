@@ -1,0 +1,69 @@
+{   
+    "projects" : [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "An application that randomly generates 1 0f 5 quotes",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://tim-frame.github.io/Tech-Degree-Project-1-Random-Quote-Gen/",
+            "github_link": "https://github.com/Tim-Frame/Tech-Degree-Project-1-Random-Quote-Gen",
+            "image_urls": ["/images/project1_1.jpg",
+                            "/images/project1_2.jpg",
+                            "/images/project1_3.jpg",
+                            "/images/project1_4.jpg"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "Student Records",
+            "description": "An app that uses pagination to add navigation to a list of 54 students records  ",
+            "technologies": ["HTML", "CSS", "JavaScript", "Pagination"],
+            "live_link": "https://tim-frame.github.io/Tech-Degree-Project-2-List-Pagination-and-Filtering/",
+            "github_link": "https://github.com/Tim-Frame/Tech-Degree-Project-2-List-Pagination-and-Filtering",
+            "image_urls": ["/images/project2_1.jpg",
+                            "/images/project2_2.jpg",
+                            "/images/project2_3.jpg",
+                            "/images/project2_4.jpg"
+                        ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive HTML Form",
+            "description": "An HTML form that has been made interactive with JavaScript",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://tim-frame.github.io/Tech-Degree-Project-3-Interactive-Form/",
+            "github_link": "https://github.com/Tim-Frame/Tech-Degree-Project-3-Interactive-Form",
+            "image_urls": ["images/project3_1.jpg",
+                        "images/project3_2.jpg",
+                        "images/project3_3.jpg",
+                        "images/project3_4.jpg"
+                        ]           
+        },
+        {
+            "id": "3",
+            "project_name": "Word Guessing Game",
+            "description": "A browser based word guessing game",
+            "technologies": ["HTML", "CSS", "JavaScript", "Object-Orientated Programming"],
+            "live_link": "https://tim-frame.github.io/Tech-Degree-Project-4-OOP-Game-Show-App/",
+            "github_link": "https://github.com/Tim-Frame/Tech-Degree-Project-4-OOP-Game-Show-App",
+            "image_urls": ["images/project4_1.jpg",
+                        "images/project4_2.jpg",
+                        "images/project4_3.jpg",
+                        "images/project4_4.jpg"
+                        ]
+        },
+        {
+            "id": "4",
+            "project_name": "Employee Database",
+            "description": "An API based employee data base",
+            "technologies": ["HTML", "CSS", "JavaScript", "Ajax"],
+            "live_link": "https://tim-frame.github.io/Tech-Degree-Project-5-Public-API-Requets/",
+            "github_link": "https://github.com/Tim-Frame/Tech-Degree-Project-5-Public-API-Requets",
+            "image_urls": ["images/project5_1.jpg",
+                        "images/project5_2.jpg",
+                        "images/project5_3.jpg",
+                        "images/project5_4.jpg"
+                        ]
+        } 
+    ]
+}

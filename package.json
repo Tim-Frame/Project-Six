@@ -1,0 +1,17 @@
+{
+  "name": "projectsix",
+  "version": "1.0.0",
+  "description": "A porfolio project for Timothy Frame",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy Frame",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
