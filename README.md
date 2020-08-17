@@ -3,6 +3,8 @@
 
 To start file:
 
+  -Download file
+  -Install NPM
   -Type NPM start in your command line.
   -Go to localhost:3000 in browser
 
